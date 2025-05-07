@@ -1,0 +1,15 @@
+C:\Users\Leo\Documents\Vscode\Atividade1C\bin\Debug\net9.0\Atividade1C.exe
+C:\Users\Leo\Documents\Vscode\Atividade1C\bin\Debug\net9.0\Atividade1C.deps.json
+C:\Users\Leo\Documents\Vscode\Atividade1C\bin\Debug\net9.0\Atividade1C.runtimeconfig.json
+C:\Users\Leo\Documents\Vscode\Atividade1C\bin\Debug\net9.0\Atividade1C.dll
+C:\Users\Leo\Documents\Vscode\Atividade1C\bin\Debug\net9.0\Atividade1C.pdb
+C:\Users\Leo\Documents\Vscode\Atividade1C\obj\Debug\net9.0\Atividade1C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Documents\Vscode\Atividade1C\obj\Debug\net9.0\Atividade1C.AssemblyInfoInputs.cache
+C:\Users\Leo\Documents\Vscode\Atividade1C\obj\Debug\net9.0\Atividade1C.AssemblyInfo.cs
+C:\Users\Leo\Documents\Vscode\Atividade1C\obj\Debug\net9.0\Atividade1C.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Documents\Vscode\Atividade1C\obj\Debug\net9.0\Atividade1C.sourcelink.json
+C:\Users\Leo\Documents\Vscode\Atividade1C\obj\Debug\net9.0\Atividade1C.dll
+C:\Users\Leo\Documents\Vscode\Atividade1C\obj\Debug\net9.0\refint\Atividade1C.dll
+C:\Users\Leo\Documents\Vscode\Atividade1C\obj\Debug\net9.0\Atividade1C.pdb
+C:\Users\Leo\Documents\Vscode\Atividade1C\obj\Debug\net9.0\Atividade1C.genruntimeconfig.cache
+C:\Users\Leo\Documents\Vscode\Atividade1C\obj\Debug\net9.0\ref\Atividade1C.dll
